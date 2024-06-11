@@ -9,8 +9,12 @@
 [email]: tejussahi07@gmail.com
 
 ## My GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejus07&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejus07&theme=github_dark_dimmed" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejus07&layout=compact&langs_count=8&card_width=400&theme=github_dark_dimmed" />
+</a>
 
 ## Languages and Tools:
 
