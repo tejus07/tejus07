@@ -5,8 +5,10 @@
 - 👯 I'm looking to collaborate on open source projects.
 - 💬 Ask me about anything tech-related, I'm happy to help.
 - 📫 How to reach me: [email]
+- ✨ My Website: [link]
 
 [email]: tejussahi07@gmail.com
+[link]: https://portfolio-tejus.vercel.app/
 
 ## My GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api?username=tejus07">
